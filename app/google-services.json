@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469137183779",
+    "project_id": "latihanlogin-91c79",
+    "storage_bucket": "latihanlogin-91c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469137183779:android:7abf2126ed191de6fe0d96",
+        "android_client_info": {
+          "package_name": "com.example.latihanlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469137183779-p4o5m86j304b29oouof5ta5beef9bh9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihanlogin",
+            "certificate_hash": "a1349565505f1a55d5eb3671c1f2c02cb5223242"
+          }
+        },
+        {
+          "client_id": "469137183779-59vpqvbgd1sn3u9ppcvb3eh09sdre8v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08g6lptm0-5J-mobxlpY6WNXxYeiuypw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469137183779-59vpqvbgd1sn3u9ppcvb3eh09sdre8v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
